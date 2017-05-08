@@ -3,7 +3,7 @@
 PANDOC_OPTS = -s -S --latex-engine=xelatex --filter multifilter 
 SLIDES_OPTS = --slide-level 1 -t beamer --template vzg-slides.tex
 
-all: wikidata-normdaten-mappings.pdf
+all: wikidata-normdaten-mappings.pdf gbv-terminology-services.pdf
 
 .SUFFIXES: .pdf .md
 
