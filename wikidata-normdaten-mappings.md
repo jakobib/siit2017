@@ -27,8 +27,8 @@ multifilter:
 * 1758 Datentyp external identifier
 * 1555 [Properties for authority control](https://www.wikidata.org/wiki/Q18614948)
 * 200 Properties mit explizit entsprechendem KOS
-    * 60 davon in BARTOC eingetragen
-    * GND (Q36578)\
+    * 60 davon in BARTOC eingetragen, z.B.\
+      GND (Q36578)\
       Wikidata-Eigenschaft (P1687)\
       GND-ID (P227)
 * 10816 KOS insgesamt
