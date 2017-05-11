@@ -1,5 +1,6 @@
 ---
 title: Normdaten-Mappings in Wikidata
+subtitle: <https://doi.org/10.5281/zenodo.574452>
 author:
  - name: Jakob Voß
    affiliation: VZG

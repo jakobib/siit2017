@@ -1,6 +1,8 @@
 ---
 title: Terminology-Services auf Basis der JSKOS-API
-subtitle: Dienste im Rahmen von coli-conc
+subtitle: |
+  Dienste im Rahmen von coli-conc
+  <https://doi.org/10.5281/zenodo.574464>
 author:
  - name: Jakob Voß
    affiliation: VZG
